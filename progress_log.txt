@@ -1,0 +1,12 @@
+16.3
+Tähän mennessä projektissa olen lähinnä keskittynyt matematiikkaluokkien (Mathematics, Vector3D, jne...) luomiseen.
+Oliolle Mathematics on luotu metodeja, joista tärkeimpiä ovat integrate ja evaluate -metodit. Nämä metodit muodostavat simulaation matemaattisen ytimen.
+Seuraava työ olisi luoda testejä ja varmistaa, että kaikki matematiikkametodit toimivat oikein.
+
+30.3
+Tällä aikavälillä toteutin Simulatiom-luokan readFile()-metodin, joka lukee tiedoston ja luo sen sisältämät avaruusobjektit sekä lisää ne simulaatioon.
+Muuta en opiskelukiireiden takia ole ehtinyt tehdä.
+
+13.4
+Tähän mennessä olen saanut aikaan alkeisversion käyttöliittymästä, toimivan version tekstipohjaisesta käyttöliittymästä ja testattua simulaation toiminnan loppuun.
+Simulaatio voi nyt lukea tiedostoja sekä laskea sijainnit ja kirjoittaa ne gnuplot-luettavaan tiedostoon.

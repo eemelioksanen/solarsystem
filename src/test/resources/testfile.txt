@@ -1,0 +1,8 @@
+# This is a template file to be used in testing.
+# #-symbol marks a comment and lines starting with that symbol will be ignored by the program.
+# Data should be formatted by the following way, where ';'-symbol is used to separate the data blocks and
+# ','-symbol is used to separate different values inside a data block.
+# name; mass; velocity x, y, z; position x, y, z; radius
+
+Earth; 5.972E+24; 0, 0, 0; 0, 0, 0; 6371000
+Moon; 7.34767309E+22; 0, 0, 0; 0, 184400000, 0; 1737400

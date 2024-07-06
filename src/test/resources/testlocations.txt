@@ -1,0 +1,2 @@
+D:\Ohjelmointi\Solar System Simulator\src\test\resources\testFile.txt
+D:\Ohjelmointi\Solar System Simulator\src\test\resources\testWrite.dat
